@@ -5,7 +5,8 @@ date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
 
-# Down the rabbit-hole
+Introduction
+
 The US Department of education keeps the most comprehensive and easily accessible college data. The objective of US Public colleges and policymakers is to make higher education most affordable for students across the country. It is also very important to ensure that there is racial as well as gender diversity in the colleges.
 Admitting more individuals from underrepresented populations lends itself to different worldviews that other students can engage in. This brings on different perspectives that could change minds and shape ideas. There is a substantial amount of college tuition, diversity, pay data that can be used to draw meaningful conclusions.
 
